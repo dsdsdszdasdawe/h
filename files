@@ -1,7 +1,7 @@
-[
-  "cheese",
-  "pablo",
-  "file_name_1",
-  "file_name_2",
-  "file_name_3"
-]
+{
+  "categories": {
+    "Red Engine": ["Pablo", "file2", "file3"],
+    "Eulen": ["Kaas", "file5"],
+    "Anderen": ["Henk", "file7", "file8"]
+  }
+}
